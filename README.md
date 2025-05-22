@@ -1,2 +1,2 @@
 # Alice in Chain
-Methodology with playing artificial intelligence
+Особенности игры с Алисой из Яндекса на примере простых диалоговых сценариев, или что скрыла Алиса от пользователя
